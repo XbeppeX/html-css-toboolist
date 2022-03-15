@@ -7,8 +7,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: #444851;
-  
 }
 
 /*
@@ -22,13 +20,6 @@
 
 }
 
-h1 {
-  font-size: 45px;
-  color: black;
-}
-
-
-
 header {
   height: 100px;
   padding: 10px;
@@ -38,6 +29,10 @@ header {
   background-color: white;
 }
 
+h1 {
+  font-size: 45px;
+  color: black;
+}
 
 
 .generale{
