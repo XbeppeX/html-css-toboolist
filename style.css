@@ -8,14 +8,14 @@
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 45px;
   color: #041931;
 }
 
 
 
 header {
-  height: 96px;
+  height: 100px;
   padding: 10px;
   display: flex;
   align-items:center;
@@ -28,7 +28,7 @@ header {
   width: 60%;
   margin: auto;
   background-color: white;
-  padding: 20px;
+  padding: 25px;
   border-radius: 12px;
 
 }
@@ -57,13 +57,13 @@ header {
   text-decoration: none;
 }
 
-.frst{
+.first{
   background-color: #47ADF1 ;
   color: rgb(255, 255, 255);
   border:none;
 }
 
-.scnd{
+.second{
   background-color: white;
   color: #C5CBD0;
   border: 2px solid #C5CBD0;
@@ -75,7 +75,7 @@ header {
 
 /******************************/
 
-.wt {
+.white-head {
   background-color: white;
 }
 
