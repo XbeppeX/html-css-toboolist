@@ -51,7 +51,7 @@ h1 {
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
-  padding: 10px 25px;
+  padding: 0.5em 1em;
   font-size: 14px;
   margin: 8px 2px;
 }
@@ -75,8 +75,8 @@ h1 {
 .bubble {
   color: white;
   border-radius: 20px;
-  margin-left: 0.2em;
-  padding: 0.6em 1em;
+  margin-left: 5px;
+  padding: 0.5em 1em;
   font-size: 10px;
 
 }
@@ -92,8 +92,8 @@ h1 {
 .blue{
   background-color: blue;
 }
-.violet{
-  background-color: violet;
+.purple{
+  background-color: purple;
 }
 .green{
   background-color: green;
