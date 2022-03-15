@@ -63,14 +63,14 @@ header {
 
 .primo{
   background-color: #40adf7 ;
-  color: rgb(255, 255, 255);
+  color: white;
   border:none;
 }
 
 .secondo{
   background-color: white;
-  color: #C5CBD0;
-  border: 2px solid #C5CBD0;
+  color: grey;
+  border: 2px solid grey;
 }
 
 /*
