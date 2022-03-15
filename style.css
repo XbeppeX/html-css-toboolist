@@ -87,10 +87,10 @@ header {
 }
 
 /*
-    bottoni "testo" colore
+    Colore bottoni "testo" + main
 */
 
-.avana {
+main {
   background-color: #F6F8F9;
 }
 
