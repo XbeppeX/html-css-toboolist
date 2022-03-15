@@ -1,3 +1,7 @@
+/*
+    Sezione generale, definizione font
+*/
+
 * {
   font-family: sans-serif;
   margin: 0;
@@ -7,9 +11,20 @@
   
 }
 
+/*
+    Centrare ed allineare testo/bottoni
+*/
+
+.center {
+  display: flex;
+  align-items:center;
+  padding: 3px;
+
+}
+
 h1 {
   font-size: 45px;
-  color: #041931;
+  color: black;
 }
 
 
@@ -20,6 +35,7 @@ header {
   display: flex;
   align-items:center;
   margin-left: 2%;
+  background-color: white;
 }
 
 
@@ -33,32 +49,21 @@ header {
 
 }
 
-.intern {
-  margin-left: 30px;
-}
-
-
-/******************************/
-.bubble {
-  color: white;
-  border-radius: 20px;
-  margin-left: 0.2em;
-  padding: 0.6em 1em;
-  font-size: 10px;
-
-}
+/*
+    Bottoni "Add Task/Section
+*/
 
 .bbl{
-  border-radius: 8px;
-  padding: 10px 26px;
-  font-size: 14px;
-  margin: 8px 2px;
   text-align: center;
   text-decoration: none;
+  border-radius: 5px;
+  padding: 10px 25px;
+  font-size: 14px;
+  margin: 8px 2px;
 }
 
 .first{
-  background-color: #47ADF1 ;
+  background-color: #40adf7 ;
   color: rgb(255, 255, 255);
   border:none;
 }
@@ -69,49 +74,53 @@ header {
   border: 2px solid #C5CBD0;
 }
 
+/*
+   Bottoni accanto testo
+*/
 
+.bubble {
+  color: white;
+  border-radius: 20px;
+  margin-left: 0.2em;
+  padding: 0.6em 1em;
+  font-size: 10px;
 
-
-
-/******************************/
-
-.white-head {
-  background-color: white;
 }
 
-.gry {
+/*
+    Colore Generale/bottoni
+*/
+
+
+
+.avana {
   background-color: #F6F8F9;
 }
 
 .blue{
-  background-color: #47ADF1;
+  background-color: blue;
 }
 .violet{
-  background-color: #9C72E4;
+  background-color: violet;
 }
 .green{
-  background-color: #8BD0BF;
+  background-color: green;
 }
-.gren{
+.green2{
   background-color: #B0C926;
 }
 
 .orange{
-  background-color: #F29E33;
+  background-color: orange;
 }
 .rez {
-  background-color: #D863A1;
+  background-color: pink;
 
 }
 
-/******************************/
 
 
 
-.center {
-  display: flex;
-  align-items:center;
-  padding: 6px;
 
-}
+
 
