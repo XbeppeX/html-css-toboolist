@@ -9,6 +9,16 @@
   box-sizing: border-box;
 }
 
+h1 {
+  font-size: 45px;
+  color: black;
+}
+
+hr {
+    height: 2px;
+    background-color: #F6F8F9;
+    border: none; 
+}
 /*
     Centrare ed allineare testo/bottoni
 */
@@ -27,11 +37,6 @@ header {
   align-items:center;
   margin-left: 2%;
   background-color: white;
-}
-
-h1 {
-  font-size: 45px;
-  color: black;
 }
 
 
