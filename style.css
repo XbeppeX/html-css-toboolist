@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #444851;
+  
+}
+
+h1 {
+    font-size: 50px;
+}
+
+header {
+    height: 96px;
+    padding: 10px;
+    display: flex;
+    align-items:center;
+    margin-left: 2%;
+}
