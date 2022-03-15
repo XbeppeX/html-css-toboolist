@@ -23,7 +23,7 @@ hr {
     Centrare ed allineare testo/bottoni
 */
 
-.center {
+.centro {
   display: flex;
   align-items:center;
   padding: 3px;
