@@ -18,6 +18,8 @@ hr {
     height: 2px;
     background-color: #F6F8F9;
     border: none; 
+    margin-left: -1.3cm;
+    margin-right: -1.3cm;
 }
 /*
     Centrare ed allineare testo/bottoni
@@ -46,6 +48,7 @@ header {
   background-color: white;
   padding: 25px;
   border-radius: 3px;
+  line-height: 1.6;
 }
 
 /*
