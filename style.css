@@ -5,8 +5,8 @@
 * {
   font-family: sans-serif;
   margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+  padding: ;
+  
 }
 
 h1 {
@@ -29,7 +29,6 @@ hr {
   display: flex;
   align-items:center;
   padding: 3px;
-
 }
 
 header {
@@ -54,6 +53,17 @@ header {
 /*
     Bottoni "Add Task/Section" + colore
 */
+
+
+.check {
+    color: green;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    border-radius: 50%;
+    border: 2px solid green;
+}
+
 
 .cerchio{
   text-align: center;
